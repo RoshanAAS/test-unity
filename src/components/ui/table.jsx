@@ -38,7 +38,7 @@ const TableComponent = () => {
                     type="checkbox"
                     className="w-3 h-3 text-purple-800 bg-gray-100 border-gray-300 rounded-sm focus:ring-purple-800 dark:focus:ring-purple-800"
                   />
-                  <span>{item.id}</span>
+                  <span className="text-sm  font-semibold" >{item.id}</span>
                 </div>
               </td>
               <td className="px-4 py-3">{item.title}</td>
