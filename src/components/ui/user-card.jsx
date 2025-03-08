@@ -4,7 +4,7 @@ import React from "react";
 
 const UserCard = () => {
   return (
-    <div className="mt-auto pt-4 border-t border-gray-200 dark:border-gray-700">
+    <div className="mt-auto pt-2 border-t border-gray-200 dark:border-gray-700">
       <div className="flex items-center gap-4 p-2 bg-white dark:bg-gray-800 rounded-lg shadow-[0px_6px_24px_0px_rgba(0,0,0,0.05),0px_0px_0px_1px_rgba(0,0,0,0.08)]">
         <div className="relative">
           <img
